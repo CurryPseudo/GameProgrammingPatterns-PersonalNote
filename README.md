@@ -23,7 +23,7 @@
 一些多个游戏对象使用的资源（元件）只创建一个实例，每个游戏对象以指针的方式调用它。
 ###Observer
 当游戏对象的某些状态发生改变时，对其Subject组件的多个Observer发出通知以响应改变。  
-![ObserverImage](\image\Observer_Achievement.png)
+![ObserverImage](image\Observer_Achievement.png)
 ###Prototype
 以一个对象作为原型，生成该对象的克隆。（Unity中Prefab-Instantiate）  
 对Self语言有了一定了解（基于原型的面向对象程序设计语言）  
